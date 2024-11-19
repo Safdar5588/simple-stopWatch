@@ -1,0 +1,23 @@
+
+
+
+.countainer{
+    width: 260px;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+    align-content: center;
+    background-color: black;
+    color: white;
+    border-radius: 5%;
+}
+
+.output{
+    font-size: 50px;
+}
+.btn{
+    margin: 10px;
+}
+.buttons{
+    margin-top: 40px;
+}
